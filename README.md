@@ -1,2 +1,2 @@
 # Kodluyoruz Ilk Repo
-![photo](/Screenshot_1.png)
+![photo](https://picsum.photos/200/300)
